@@ -1,16 +1,23 @@
-## Hi there 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />        
+## Prazer. Sou Carlos!
 
-<!--
-**analogcinza/analogcinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Com interesse em backend e desenvolvimento de jogos.
+- 🌱 Atualmente aprendendo C# com foco em .NET
+- 😄 Pronouns: any
 
-Here are some ideas to get you started:
+<div>
+  
+![analogcinza's Stats](https://github-readme-stats.vercel.app/api?username=analogcinza&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analogcinza&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
+  <div>
+
+
+    
+  </div>
+  
+</div>
